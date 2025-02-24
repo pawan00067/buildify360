@@ -68,7 +68,7 @@
             <?php echo form_close(); ?>
         </div>
         <footer class="login-footer" style="display: flex; justify-content: center; color: black; font-size: 15px;">
-          <p><a href="#" target="_blank"><img src="<?php echo base_url('assets/images/buildify_logo.png'); ?>" alt="nirmaan360 logo" width="50" height="50" class="footer-logo"></a> Powered by <a href="#" target="_blank" style="color: black;">Buildify360</a></p>
+          <p><a href="#" target="_blank"><img src="<?php echo base_url('assets/images/buildify_logo.png'); ?>" alt="buildify360 logo" width="50" height="50" class="footer-logo"></a> Powered by <a href="#" target="_blank" style="color: black;">Buildify360</a></p>
         </footer>
     </div>
 
