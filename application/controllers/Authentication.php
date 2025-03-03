@@ -23,7 +23,7 @@ class Authentication extends ClientsController
 
     public function login()
     {
-        // redirect($this->admin());
+        redirect($this->admin());
         if (is_client_logged_in()) {
             redirect(site_url());
         }
