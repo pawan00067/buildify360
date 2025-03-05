@@ -4154,4 +4154,4 @@ $lang['forms_chart_weekly_opening_stats']  = 'Weekly Stats';
 $lang['access_forms_to_none_staff_members'] = 'Allow access to Form for non staff members';
 $lang['settings_group_forms'] = 'RFI';
 $lang['form_detail'] = 'Form detail';
-
+$lang['purchase_widget'] = 'Purchase Orders';
