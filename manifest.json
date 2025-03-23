@@ -4,7 +4,7 @@
 	"short_name": "Buildify360",
 	"description": "Buildify360 Website Development",
 	"orientation": "portrait",
-	"start_url": "https://alpha.Buildify360construction.com/admin",
+	"start_url": "https://360.buildify360.com/admin/",
 	"scope": "/",
 	"display": "standalone",
 	"background_color": "grey",
